@@ -2,7 +2,7 @@
 layout: post
 title: "[Translation PL] Paul Graham: Being a Noob"
 date: 2020-02-28 08:00:00 +0100
-description: Translation of Paul Graham
+description: Tłumaczenie eseju Paula Grahama
 img:  translated.jpg
 tags: [Paul Graham, PL]
 ---
