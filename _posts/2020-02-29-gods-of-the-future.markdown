@@ -22,15 +22,19 @@ The hereditary rights were the most important factor that decided of life-long w
 The Habsburgs, Bourbons, Tudors, etc., shaped the border lines of countries and gave rise to the haves and have not's.
 
 In general we can say that there were four states to which a person could belong - peasants, priests, merchants and aristocracy.
+
 If you were born a peasant, even if you were a genius, there was pretty much zero chance to hold real power.
+
 Aristocracy and priests built their wealth by making claims to ownership of things - land and human souls.
 Those "rights" seem like a silly things now, but at the time everybody treated them very seriously.
 The division of states can be traced at least to ancient Rome and was very deeply rooted in collective consciousness.
 It was a castle build on sand, but as long as an average person believed in the status quo, it was the law.
+
 If you think this is ridiculous, stop for a moment and think about our financial systems and how banks hold the power to create money.
 Looks familiar?
 Our society is a common consensus on a set of things.
 The importance of that cannot be overstated when considering the last state - merchants.
+
 At the time, those were the people that were considered dispossessed - they held no land and they had no connection to god.
 Being a merchant was often considered a "dirty" job.
 You know, almost like a natural scientist.
@@ -38,6 +42,7 @@ Merchants were often of Jewish descent and occasionally an aristocrat would inci
 What's particularly interesting is the fact, that the power of those people was backed by goods and services which they offered.
 Wealth was strongly correlated to their own abilities.
 It's a concept that we take for granted now, but at the time almost no one would acknowledged that it was the right way to go.
+
 To summarize - in the old status quo, your individual value was very low.
 Your family ties determined your future and your abilities were not a good predictor of success.
 Everyone accepted that unanimously.
