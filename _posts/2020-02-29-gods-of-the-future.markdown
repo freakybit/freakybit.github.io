@@ -9,7 +9,7 @@ tags: [Essay, ENG]
 
 This will be a bit controversial topic and I was considering if I should write about this at all.
 I will try to limit giving out my point of view and instead to ask some important questions, but I probably won't escape offending some people.
-Please treat this just as an intellectual exploration, an exercise of sort and come with me on a journey towards a new frontier.
+Please treat this just as an intellectual exploration, an exercise of sorts, and come with me on a journey towards a new frontier.
 
 First of all, lets think for a moment about current state of affairs concerning wealth inequality.
 I understand that it's only a proxy for the general inequality problem, but as the starting point it's a good approximation.
@@ -21,9 +21,27 @@ For many ages a small number of aristocratic families divided the land between t
 The hereditary rights were the most important factor that decided of life-long wealth.
 The Habsburgs, Bourbons, Tudors, etc., shaped the border lines of countries and gave rise to the haves and have not's.
 
-In general we can say that there were 4 states to which a person could belong - peasants, priests, merchants and aristocracy.
+In general we can say that there were four states to which a person could belong - peasants, priests, merchants and aristocracy.
 If you were born a peasant, even if you were a genius, there was pretty much zero chance to hold real power.
-When the power of the old families started to wane, mostly due to the rise of importance of the merchant class, it gave place for new structures to emerge.
+Aristocracy and priests built their wealth by making claims to ownership of things - land and human souls.
+Those "rights" seem like a silly things now, but at the time everybody treated them very seriously.
+The division of states can be traced at least to ancient Rome and was very deeply rooted in collective consciousness.
+It was a castle build on sand, but as long as an average person believed in the status quo, it was the law.
+If you think this is ridiculous, stop for a moment and think about our financial systems and how banks hold the power to create money.
+Looks familiar?
+Our society is a common consensus on a set of things.
+The importance of that cannot be overstated when considering the last state - merchants.
+At the time, those were the people that were considered dispossessed - they held no land and they had no connection to god.
+Being a merchant was often considered a "dirty" job.
+You know, almost like a natural scientist.
+Merchants were often of Jewish descent and occasionally an aristocrat would incite a pogrom to shift the blame for some major failure in governance.
+What's particularly interesting is the fact, that the power of those people was backed by goods and services which they offered.
+Wealth was strongly correlated to their own abilities.
+It's a concept that we take for granted now, but at the time almost no one would acknowledged that it was the right way to go.
+To summarize - in the old status quo, your individual value was very low.
+Your family ties determined your future and your abilities were not a good predictor of success.
+Everyone accepted that unanimously.
+When the power of the old families started to wane, it gave place for new structures to emerge.
 
 Capitalism - that's the word for today. The promise of being able to move freely along the status line in accordance to ones own merit.
 Was this promise fulfilled? To a degree.
@@ -44,7 +62,7 @@ Why is that?
 
 I think most of this aversion is due to a bizarre form of cowardice.
 Paradoxically, this particular thing is also what makes our lives bearable.
-I call it the "Prattchet Effect" and it's basically a projection of our internal value system to the outside world.
+I call it the "Pratchett Effect" and it's basically a projection of our internal value system to the outside world.
 Since I want to be treated fairly, I will project that the world works according to some rule called justice (it does not).
 I want to believe that I can achieve anything that any other person has, so I will project that there are no limits to what can I do (there are).
 I don't want to die, but I'm convinced that I cannot escape it, so I will project that death is something that one should not fight (it's hard to imagine a thing more worth fighting against).
@@ -63,7 +81,7 @@ A lot of the stories we are fed by motivational speakers, coaches and the sort a
 In the mean time we still have social classes in modern society, wealth distribution lines can be traced more than 100 years into the past and currently 
 we are experiencing a rise of a new servant class from the lower echelons of society.
 
-But it's ok, right? There are some people that really make it. They achieve the dream, ascend toward the billionhood.
+But it's OK, right? There are some people that really make it. They achieve the dream, ascend toward the billionhood.
 Well, not quite. First of all, it does not impact in any way that inequality is here to stay.
 Second - the group of people that traverse the ladder is not that large.
 Third - those that succeed, get a leverage over the rest of the society that works like compound interest.
@@ -87,7 +105,7 @@ The answer is of course - never. The distance will become only larger.
 If there is something boiling inside you when you think about this, then you are not alone.
 We ask ourselves: how we can allow this to proceed?
 Isn't the world a just and equal place?
-Well, here is the problem. It's not and it will never be.
+Well, here is the problem - it's not and it will never be.
 Even a small deviation in abilities will cause a huge difference when we take into account a potentially infinite time span.
 If we discount the possibility of accidents, life extension programs will cause an inequality on the scale we have never seen.
 Some might propose a program in which people would be produced with the same gene pool and raised in similar conditions,
@@ -96,6 +114,11 @@ but putting aside moral objections and assuming it was feasible, it would only r
 It may well be possible that A. Huxley was right on the spot when he predicted stratification of human beings.
 Right now we can see that there are about 3-4 classes of people and they are at least to some degree hereditary.
 Once we eliminate aging they will be more or less set in stone.
+
+A while ago people unanimously believed that division of states is the only possible way in which the society can work.
+At some point the collective consciousness acknowledged that individualism and human rights are the way to go.
+The longer I look, the more it seems that we are going to experience another shift soon.
+It will be accepted sooner or later, only it probably won't be a simple comeback of the old class based status.
 
 Right now we are putting a lot of effort to automate menial jobs which would eliminate the need for the lowest class to exist at all.
 If you are an AI-skeptic and ask yourself if this is possible, then maybe you should change the time perspective.
