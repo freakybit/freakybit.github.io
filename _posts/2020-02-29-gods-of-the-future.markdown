@@ -4,7 +4,7 @@ title: "Of our Future Gods - inequality in the light of incoming lifespan increa
 date: 2020-02-28 08:00:00 +0100
 description: An exploration of the possible inequalities in the future 
 img:  time_man.jpeg
-tags: [Essay, ENG]
+tags: [Essay, EN]
 ---
 
 This will be a bit controversial topic and I was considering if I should write about this at all.
