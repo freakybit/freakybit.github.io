@@ -10,7 +10,7 @@ tags: [Short, DoNotCancelMe, EN]
 Short and not a very serious one.
 
 I think nobody needs an explanation of what the current situation with the coronavirus is.
-On the rare possibility that you're reading this in the year 2050, or as they call it year 34 after [enter the new US president name], then please also connect your neo neo cortex to the Wikipedia article on COVID-19.
+On the rare possibility that you're reading this in the year 2050, or as you call it - year 34 After the Great Calamity, then please also connect your neo^2 cortex to the Wikipedia article on COVID-19.
 
 During the last 2-3 weeks I had the dubious pleasure of being bombarded from every possible direction by a never-ending stream of opinions around this topic.
 At some point it became pretty obvious that most of those are produced, or rather repeated, by only a few distinct types of people.
@@ -43,15 +43,22 @@ Condescending towards the non-believers.
 **The Natural One**
 
 Firmly believes that there is a simple, already available cure to the disease.
-Likes: garlic, crystals, yoga and praying.
+Likes: garlic, crystals, yoga, praying and vodka.
 Does not like: big pharma.
 Condescending towards medicine users.
+
+**The Conspiracy Expert**
+
+Thinks that the virus was made in a lab on purpose.
+Spends time mostly trying to preach about chemtrails and the the New World Order.
+If you ask him directly what this is all about, he will squint and reply "Who told you to ask??".
+Too paranoid to be condescending.
 
 **The Enlightened One**
 
 Does not care a bit about the virus, since all this is just a media hoax.
 We should be more worried about common flu and ebola outbreaks in the US and Europe.
-Very skilled at combining different statistics to fit her model.
+Very skilled at combining different statistics to fit the model.
 Pretty much a p-value hacker.
 Condescending towards everyone.
 
@@ -64,4 +71,3 @@ Seems that there is another virus going around, selectively removing memory.
 
 In this glorious year 2020, in which we have more information that we can possibly digest in a lifetime, I ask only for one thing.
 Please stick to the facts.
-I do not care about your recycled opinion.
