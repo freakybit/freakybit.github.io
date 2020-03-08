@@ -1,0 +1,132 @@
+---
+layout: post
+title: "Why cars do not make sense"
+date: 2020-03-08 22:09:00 +0100
+description: Why the private car ownership model does not seem to make sense
+img:  in_cars.jpeg
+tags: [Essay, EN]
+---
+
+I was talking recently with some of my coworkers - just another lazy lunch in the cafeteria.
+We were skipping from one topic to another, until we got to cars.
+I stated openly that I do not have much expertise in the topic, since I never owned a car or even a driving license.
+The chatter abruptly stopped.
+You could feel the mood change.
+First it was shock, then a bit of confusion and people looked at each other not sure how to react.
+Finally the smug smiles took their rightful place and I knew that from this moment, it was socially acceptable to make fun of me.
+In matter of seconds I lost quite a lot of credibility.
+It's an exaggerated example of what I've experienced quite a few times in the past.
+
+Cars seem to be a very important thing to a large portion of population.
+Why is that?
+I never quite understood it.
+
+Obviously they are a sign of status, but it's something on which you can't really cheat.
+All your peers and your family know more or less how much you earn.
+If you buy a car that is clearly out of your range then everyone knows that it's just stupidity on your side not wealth.
+The opinion should not change when you do not buy a car at all - you are still making the same amount.
+Yet somehow, there is a shift.
+Why?
+
+Auto industry figured out a long time ago how to sell their products in the most efficient way.
+There are a lot of tricks, but what seems to be one of the most important things is our emotional attachment.
+People do not buy cars, they buy imaginary lifestyles.
+I can understand that this can sometimes overlap with reality to a degree.
+If your wife just gave birth to quintuplets it might seem like a good idea to buy in a minivan.
+Is it really though?
+
+As I mentioned before, I never got a driving license.
+At the time people are normally doing that I didn't have enough money and I was in constant survival mode.
+That simply wasn't a priority.
+Once I got older I started thinking about this again.
+It soon became apparent to me that I did not need a car at all and there were a lot negative aspects of owning one.
+Maybe it's just like with cigarettes - if you do not get hooked up while you're young, there is a very small chance you will pick them up later.
+
+Here are some reasons why I think private cars do not make sense:
+
+**Cars contribute to pollution**
+
+This one is obvious and was covered adequately in the media.
+One might still want to stick to a more egoistical perspective though, so it's may be not that compelling, but...
+
+**Cars increase the chance of death**
+
+WHO lists road injuries in top 10 reasons for death in the world: [WHO statistics][who-stat]
+
+Even if you are a good driver, you have zero control over the behavior of other people on the road.
+You take your minivan out of the dealership, put your newly born quintuplets in this metal cage sitting on top of small-explosions engine, and accelerate to 60 MPH like everybody else.
+Does it really seem like such a good idea?
+How good is the worst driver on the road?
+That is the weakest link.
+
+One of the other aspects of the situation in the traffic being a bit random is that you can kill someone by accident.
+He may just be too absorbed by his phone and go out on the road in a bad moment.
+It's not you fault, but would you really be OK with that?
+We seem to never ask ourselves this question before buying a car.
+
+Last, but not least - if we are able to eliminate natural aging, then our priority would become to reduce all possible death risk factors to zero.
+For any non-zero factor in an unlimited time span the probability of death approaches one.
+
+**Cars increase the chance of death once more**
+
+At the top of the WHO list there are two funny things called heart disease and stroke.
+They are treated as if they are the reasons for death, but in reality they are not.
+Those are outcomes.
+
+Among one of the main reasons for cardiovascular diseases is the lack of enough exercises.
+Here is my point - people that own cars tend to move less.
+Hey, even the American Heart Association thinks that walking more might be a good idea:
+[AHA walking][us-heart]
+
+When we take into account unlimited life span, then it would also be a good idea to look at possible "maintenance costs".
+We do not know how much it will cost to keep our bodies from decaying and it's always a good idea to avoid any major organs failure.
+Even if the reasons are purely economic.
+
+**You lose a lot of time**
+
+If you spend as much as an hour driving a car to and from work, then you lose over thirty 8h work days per year.
+That's one and a half month that you could spend reading and learning new skills.
+It's probably more than an average college student uses for checking up his course reference materials.
+Just think who could you become if you had this time.
+
+I know that nowadays a lot of people listen to audio books, but in general it's a sub-par experience.
+There is not that much place for titles that force the reader to do some analytical work.
+Mostly, those are just trivial management, coaching and self-help positions.
+You probably would not want to listen to anything that distracts you while you drive anyway.
+
+We are then wasting quite a substantial amount of time, that could be used in a much more productive way.
+As the popular proverb goes - "time is money", which gets us to...
+
+**Cars are crazy expensive**
+
+Some time ago I read about the "1/10th rule" which states that you should not spend more than 10% of your income on your car.
+First of all, existence of such a rule suggests that there are people that actually spend more.
+Second, this is an insane amount of money.
+
+Saving up and investing on this scale through most of your career would make you financially independent when near retirement.
+It could provide you additional medical insurance which could save your life, push you or your child through college, or just make life a bit easier.
+
+There are not a lot of things which I would spend so much cash on.
+You would have to give a very good reason for that - some basic unfulfilled need.
+Which gets us to the last point...
+
+**Most people don't actually need them**
+
+Come on, how much do you really need this thing?
+There are a lot people that have a very similar situation to yours that can live without a car.
+Unless your business uses them, you live in some remote place to which you cannot commute, or getting supplies there is hard, there seem to be no good reason for a private car.
+
+Most areas where people live can be reached by public transport.
+I would not choose a car for a longer ride anyway since it's just very inconvenient.
+
+In the case of some urgent need, there are a lot of other services you can use - taxis, Uber, etc.
+Paying for them would still be cheaper than keeping an insured car.
+
+In summary, it was always very unclear to me why people want to own cars.
+This seems to solve no real problem and any emotional needs that get fulfilled are offset by heavy costs.
+Is this just some relict of our past still rummaging in the back of our heads, or is there something that I'm missing?
+Will the car industry finally die out, or will the need for compulsive consumerism be stronger?
+What is your opinion?
+
+[who-stat]: https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death
+[us-heart]: https://www.heart.org/en/healthy-living/fitness/walking
