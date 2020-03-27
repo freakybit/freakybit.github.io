@@ -38,9 +38,11 @@ There was already someone who has threaded those paths before us.
 
 Did you ever had the opportunity to read "The Twenty-first Voyage" from "The Star Diaries" by S. Lem?
 At the first glance it's just another children story, but only a fool would discount this particular work of fiction without a closer look.
+I will scratch just the surface here.
+Go and read it.
 
 In the story a space pilot travels to a remote planet and meets a group of robot-monks.
-He learns that the original inhabitants of this place were biological creatures, but they are no longer around.
+He learns that the native inhabitants of this place are biological creatures, but they no longer poses their original form.
 That particular civilization has thrived for a very long period of time.
 They made many great scientific discoveries and finally they stumbled upon something that caused a complete collapse - the power to modify their own genome.
 
@@ -57,8 +59,8 @@ Once a new fancy change spread across the populace it was quickly accepted as th
 New colors, additional limbs, metabolic schemes, everything started to immediately become stale.
 Focused on constant evolution people of this planet started to lose track of who they are and the ability to form a society.
 Nihilism and decadence ruled supreme.
-Communication was lost.
-That was the end of their civilization.
+To recover they started to experiment with politics and dogma.
+In the end all their efforts produced even more horrifying effects.
 
 Ok, the story is interesting and possibly has some insightful moments, but why am I talking about this?
 What is the relation to previous topic?
