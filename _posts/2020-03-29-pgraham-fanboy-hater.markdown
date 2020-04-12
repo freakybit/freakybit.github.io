@@ -48,9 +48,9 @@ Każdy wciąż gada o tej piosenkarce, ale ona wcale nie jest dobra! To oszustka
 Słowo "oszust" jest tutaj bardzo ważne. Określanie obiektu nienawiści mianem [oszusta][twatter-musk] jest widmowym podpisem hejtera.
 Nie są w stanie odmówić im sławy. W samej rzeczy, jeżeli już, to ich sława jest w wyobrażeniu hejtera jeszcze bardziej wyolbrzymiona.
 Zwracają uwagę na każdą wzmiankę imienia piosenkarki, ponieważ każda wzmianka sprawia, że są jeszcze bardziej wściekli.
-W swoim wyobrażeniu wyolbrzymiają zarówno sławę piosenkarki jak i jej brak talentu, i jedynym sposobem żeby pogodzić ze sobą te dwie idee jest dojście do wniosku, żw wszystkich oszukała.
+W swoim wyobrażeniu wyolbrzymiają zarówno sławę piosenkarki jak i jej brak talentu, i jedynym sposobem żeby pogodzić ze sobą te dwie idee jest dojście do wniosku, że wszystkich oszukała.
 
-Jakiego rodzaju ludzie zostają hejterami? Czy każdy może nim zostać? Nie jestem pewien, ale zauważyłem pewne wzorce. Hejterzy są generalnie przegrywami w bardzo szczególnym sensie: chociaż są okazjonalnie utalentowani, to nigdy niczego nie osiągneli. I w rzeczy samej, każdy kto odniósł sukces w stopniu wystarzcającym żeby osiągnąć znaczną sławę nie byłby prawdopodobnie skłonny do określania innej sławnej osoby na tej podstawie mianem oszusta, ponieważ każda znana osoba wie jak bardzo przypadkową rzeczą jest sława.
+Jakiego rodzaju ludzie zostają hejterami? Czy każdy może nim zostać? Nie jestem pewien, ale zauważyłem pewne wzorce. Hejterzy są generalnie przegrywami w bardzo szczególnym sensie: chociaż są okazjonalnie utalentowani, to nigdy niczego nie osiągneli. I w rzeczy samej, każdy kto odniósł sukces w stopniu wystarczającym żeby osiągnąć znaczną sławę nie byłby prawdopodobnie skłonny do określania innej sławnej osoby na tej podstawie mianem oszusta, ponieważ każda znana osoba wie jak bardzo przypadkową rzeczą jest sława.
 
 Hejterzy nie zawsze są jednak kompletnymi przegrywami. Nie zawsze są przysłowiowymi kolesiami mieszkającymi w piwnicach swoich rodziców. Wielu jest, ale niektórzy mają pewną dozę talentu. W rzeczywistości podejrzewam, że poczucie sfrustrowanego talentu jest tym co popycha część ludzi do zostania heterami. Oni mówią nie tylko "to niesprawiedliwe, że ten-a-ten jest sławny", lecz raczej "to niesprawiedliwe, że ten-a-ten jest sławny a ja nie".
 
@@ -64,7 +64,7 @@ Najważniejszą z nich jest zwyczajnie o nich nie myśleć. Jeśli jesteś jak w
 
 Błędem tutaj jest myśleć o hejterze jako o kimś z kim można prowadzić dyskusję. Kiedy z kimś rozmawiasz, jest zazwyczaj dobrym pomysłem żeby spróbować zrozumieć dlaczego są wzburzeni i naprawić coś jeśli zdołasz. Dyskusje są rozpraszające. Jednak jest fałszywą analogią myślenie o hejterze jako o kimś z kim można prowadzić dyskusję. Jest to zrozumiały błąd, jeśli nigdy do tej pory nie napotkałeś hejtera na swojej drodze. Jednakże kiedy zrozumiesz, że masz do czynienia z hejterem, i zrozumiesz czym jest hejter, staje się jasne jaką stratą czasu jest marnowanie czasu chociażby myśląc o nich. Jeśli masz obsesyjnych fanów, to czy spędzasz jakąkolwiek ilość czasu zastanawiając się co sprawia, że kochają Cię tak przesadnie? Nie, myślisz sobie tylko "niektórzy ludzie są trochę szaleni" i to jest koniec.
 
-Ponieważ hejterzy są odpowiednikami fanbojów, ta sama metod pozwala radzić sobie również z nimi. Może istnieje coś co spowodowało, że tacy się stali, ale nie jest to coś co spowodowałoby przemianę u normalnej osoby, więc nie ma powodu żeby spędzać czas zastanawiając się nd tym. TO nie Ty jesteś problemem, tylko oni.
+Ponieważ hejterzy są odpowiednikami fanbojów, ta sama metod pozwala radzić sobie również z nimi. Może istnieje coś co spowodowało, że tacy się stali, ale nie jest to coś co spowodowałoby przemianę u normalnej osoby, więc nie ma powodu żeby spędzać czas zastanawiając się nd tym. To nie Ty jesteś problemem, tylko oni.
 
 
 ##### Przypisy
