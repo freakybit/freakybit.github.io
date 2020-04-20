@@ -1,6 +1,5 @@
 title: Strongly Against
 description: > # this means to ignore newlines until "baseurl:"
-  The best half-baked articles that no one reads.
   If you could live forever, who would you want to become?
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,7 +9,7 @@ url: "https://stronglyagainst.com" # the base hostname & protocol for your site,
 author: Strongly Against # add your name
 author-img: red_logo.jpg # add your photo
 about-author:
-  The best half-baked articles that no one reads.
+  The best articles that no one reads.
 social-twitter: freakybit_zero
 social-email: freakybit.zero@gmail.com
 
